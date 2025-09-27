@@ -14,9 +14,9 @@ The dashboard is built using **Power BI**, with data sourced from **Excel** file
 | File/Folder          | Description                                      |
 |---------------------|--------------------------------------------------|
 | `QuickCart.pbix`    | Power BI dashboard file                          |
-| `dataset/`          | Excel dataset(s) used in the dashboard          |
+| `dataset/`          | Excel dataset used in the dashboard          |
 | `images/`           | Dashboard screenshots                            |
-| `README.md`         | Project overview and instructions               |
+| `README.md`         | Project overview              |
 
 ## Tools Used
 - Power BI Desktop  
