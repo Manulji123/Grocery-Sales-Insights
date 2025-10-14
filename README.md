@@ -22,3 +22,5 @@ The dashboard is built using **Power BI**, with data sourced from **Excel** file
 - Power BI Desktop  
 - Excel
 - SQL 
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
